@@ -1,8 +1,4 @@
 
-//     ALLAN JOSUE LOPEZ MATUTE
-//     20172030969
-
-
 #include <iostream>
 #include <string>
 
