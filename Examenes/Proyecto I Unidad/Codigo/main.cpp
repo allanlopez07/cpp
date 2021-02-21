@@ -1,26 +1,12 @@
 #include <iostream>
-#include <string>
 #include "startShip.h"
 #include "snake.h"
 
-
-
 using namespace std;
-
-string juegos [2][2]{
-
-{"1",   "startShip()"   },
-
-{"2",    "snake()"     }
-
-};
-
 
 int main(int argc, char const *argv[])
 {
-   
-
-    int opcion = 0;
+    int opcion;
 
         system("cls");
 
@@ -68,7 +54,6 @@ int main(int argc, char const *argv[])
             
 
         }
-        
 
     return 0;
 }
