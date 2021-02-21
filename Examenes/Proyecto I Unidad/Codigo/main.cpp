@@ -7,7 +7,7 @@
 
 using namespace std;
 
-string RetroJuegos [2][2]{
+string juegos [2][2]{
 
 {"1",   "startShip()"   },
 
@@ -32,7 +32,7 @@ int main(int argc, char const *argv[])
             cout << "***   Seleccione un Juego     ***\n" << endl;
 
             cout << "*****" << " 1   STARTSHIP   "<< "********" << endl;
-            cout << "*****" << " 2     SNAKE     "<< "********" << endl;
+            cout << "*****" << " 2     SNAKE     "<< "********\n" << endl;
 
             cout << "**  3   Salir   **\n" << endl;
 
