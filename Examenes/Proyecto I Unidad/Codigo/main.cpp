@@ -13,7 +13,7 @@ int main(int argc, char const *argv[])
         while (true)
         {
             
-            cout << "********     JUEGOS CLASICOS     ********\n" << endl;
+            cout << "********  MENU DE JUEGOS CLASICOS     ********\n" << endl;
 
             cout << "***   Seleccione un Juego     ***\n" << endl;
 
